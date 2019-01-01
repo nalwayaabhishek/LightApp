@@ -1,0 +1,3 @@
+rootProject.name = 'LightApp'
+
+include ':app'
